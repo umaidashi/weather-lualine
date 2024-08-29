@@ -1,0 +1,2 @@
+# weather-lualine
+lualine plugin.
